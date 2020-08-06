@@ -8,4 +8,3 @@ class Car < Vehicle
     "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
   end
 end
-end
